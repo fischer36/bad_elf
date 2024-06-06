@@ -2,7 +2,7 @@
 An experimental shared-library toolkit for runtime manipulation of ELF processes.
 
 ## Features
-- Import address table hooking for ELF (Global Offset Table).
+- Import address table hooking (Global Offset Table).
 - Modify memory mapping permissions e.g. read/write/execute of target.
 - Query shared libraries.
 
