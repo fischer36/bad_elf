@@ -5,3 +5,4 @@ notes.md
 src/parse.rs
 src/util.rs
 rustfmt.toml
+scrap/
